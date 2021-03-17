@@ -1,6 +1,8 @@
 # Next Meeting
 Date: March 30th 2021, 11h-12h EDT
-Jitsi: TBD 
+
+Jitsi: TBD, Check back soon.
+
 Poll: https://forms.gle/CxoKFXWvGviBW3bE7
 
 # Description
