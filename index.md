@@ -1,9 +1,12 @@
 # Next Meeting
-Date: March 30th 2021, 11h-12h EDT
+## Date
+March 30th 2021, 11h-12h EDT
 
+## Meeting Link 
 Jitsi: TBD, Check back soon.
 
-Poll: https://forms.gle/CxoKFXWvGviBW3bE7
+## Poll
+To register and signal your interest please fill out this poll : https://forms.gle/CxoKFXWvGviBW3bE7
 
 # Description
 
