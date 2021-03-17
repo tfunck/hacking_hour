@@ -10,7 +10,7 @@ To register and signal your interest please fill out this poll : https://forms.g
 
 # Description
 
-Hacking Hour is a regular workshop series on coding and neuroimaging. To start with we'll cover the basics of programming with Python and then move on to some basic applications to neuroimaging. The workshop will use Google Colab and Github.
+Hacking Hour is a regular workshop series on coding and neuroimaging. To start with we'll cover the basics of programming with Python and then move on to some basic applications to neuroimaging. No prior experience in Python or programming is required or expected. The workshop will use Google Colab, Jitsi, and, Github.
 
 # Getting started
 1. Create an account on Github (www.github.com)
