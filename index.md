@@ -23,7 +23,7 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 
 **Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators, Flow of Control
 
-**Jupyter Notebook:** 
+**Jupyter Notebook:** [notebooks/W1.ipynb](https://github.com/tfunck/hacking_hour/blob/606db38eca72bb17466fcbe67f5ac53a6fa3773e/notebooks/W1.ipynb)
 
 
 ## 2. Python Basics II
