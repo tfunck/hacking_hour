@@ -16,16 +16,73 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 1. Create an account on Github (www.github.com)
 2. Create a Google account and access Google Colab (colab.research.google.com)
 
-
 # (Provisional) Curriculum
-1. Python Basics I
-2. Python Basics II
-3. Libraries I : numpy, imageio, nibabel
-4. Libraries II: pandas, matplotlib
-5. Libraries III: scipy, skimage
-6. Segmentation
-7. Registration
+## 1. Python Basics I
+
+**Description:** An introduction to some of the fundamental concepts of programming.
+
+**Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators, Flow of Control
+
+**Jupyter Notebook:** 
+
+
+## 2. Python Basics II
+
+**Description:** A continuation of the basic concepts of programming. Afterwards participants will have the foundational building blocks for writing software. 
+
+**Topics:** Functions, common Python functions, libraries, reading/writing files
+
+**Jupyter Notebook:** 
+
+## 3. Software Design
+
+**Description:** An overview of some best practices for writing software.
+
+**Topics:** Documentation, modularity, self-describing code, testing
+
+**Jupyter Notebook:**
+
+## 4. Libraries I : numpy, imageio, nibabel
+
+**Description:**
+
+**Topics:**
+
+**Jupyter Notebook:**
+
+## 5. Libraries II: pandas, matplotlib
+
+**Description:** 
+
+**Topics:**
+
+**Jupyter Notebook:**
+
+## 6. Libraries III: scipy, skimage
+
+**Description:** 
+
+**Topics:**
+
+**Jupyter Notebook:**
+
+## 7. Segmentation
+
+**Description:** 
+
+**Topics:**
+
+**Jupyter Notebook:**
+
+## 8. Registration
+
+**Description:** 
+
+**Topics:**
+
+**Jupyter Notebook:**
 
 ### Support or Contact
+
 
 tffunck@gmail.com
