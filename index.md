@@ -3,7 +3,7 @@
 March 30th 2021, 11h-12h EDT
 
 ## Meeting Link 
-Jitsi: TBD, Check back soon.
+Jitsi: https://meet.jit.si/hiball_hacking_hour
 
 ## Poll
 To register and signal your interest please fill out this poll : https://forms.gle/CxoKFXWvGviBW3bE7
