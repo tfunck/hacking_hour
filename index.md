@@ -30,7 +30,7 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 
 **Description:** A continuation of the basic concepts of programming. Afterwards participants will have the foundational building blocks for writing software. 
 
-**Topics:** Common Python functions (range, enumerate, len, etc.), libraries, reading/writing files, objects and methods
+**Topics:** Objects and methods, Common Python functions (range, enumerate, len, etc.), libraries (os, sys, math), manipulating strings, reading/writing files 
 
 **Jupyter Notebook:** 
 
