@@ -21,7 +21,7 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 
 **Description:** An introduction to some of the fundamental concepts of programming.
 
-**Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators, Flow of Control
+**Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators, Flow of Control, Functions
 
 **Jupyter Notebook:** [notebooks/W1.ipynb](https://github.com/tfunck/hacking_hour/blob/606db38eca72bb17466fcbe67f5ac53a6fa3773e/notebooks/W1.ipynb)
 
@@ -30,7 +30,7 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 
 **Description:** A continuation of the basic concepts of programming. Afterwards participants will have the foundational building blocks for writing software. 
 
-**Topics:** Functions, common Python functions, libraries, reading/writing files
+**Topics:** Common Python functions (range, enumerate, len, etc.), libraries, reading/writing files, objects and methods
 
 **Jupyter Notebook:** 
 
@@ -38,7 +38,7 @@ Hacking Hour is a regular workshop series on coding and neuroimaging. To start w
 
 **Description:** An overview of some best practices for writing software.
 
-**Topics:** Documentation, modularity, self-describing code, testing
+**Topics:** Documentation, modularity, self-describing code, testing, floating point arithmetic
 
 **Jupyter Notebook:**
 
