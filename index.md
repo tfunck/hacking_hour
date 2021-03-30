@@ -25,6 +25,7 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 **Jupyter Notebook:** [notebooks/W1.ipynb](https://github.com/tfunck/hacking_hour/blob/606db38eca72bb17466fcbe67f5ac53a6fa3773e/notebooks/W1.ipynb)
 
+**Slides:** [slides/W1.pdf](https://github.com/tfunck/hacking_hour/blob/a1d41a264e3f707cee301ba8139ae47918a21291/slides/W1.pdf)
 
 ## 2. Python Basics II
 
@@ -32,7 +33,9 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 **Topics:** Objects and methods, Common Python functions (range, enumerate, len, etc.), libraries (os, sys, math), manipulating strings, reading/writing files 
 
-**Jupyter Notebook:** 
+**Jupyter Notebook:** [notebooks/W2.ipynb](https://github.com/tfunck/hacking_hour/blob/a1d41a264e3f707cee301ba8139ae47918a21291/notebooks/W2.ipynb)
+
+
 
 ## 3. Software Design
 
