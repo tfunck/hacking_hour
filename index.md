@@ -41,45 +41,76 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 **Description:** More on iteration, discussion of the topic of variable scope, and an introduction to some common python functions.
 
 **Topics:** Iteration with list comprehension, variable scope, Common Python functions (range, enumerate, len, etc.)
-**Jupyter Notebook:** 
+
+**Jupyter Notebook:** [notebooks/W3.ipynb](https://github.com/tfunck/hacking_hour/blob/2aaedb609ce52a63ac65c02d655f017f15724f05/notebooks/W3.ipynb)
+
+**Slides:** [slides/W3.pdf](https://github.com/tfunck/hacking_hour/blob/2aaedb609ce52a63ac65c02d655f017f15724f05/slides/W3.pdf)
 
 ## 4. Python Basics IV
 
 **Description:** Introduction to the concept of objects and methods with applications using string manipulation and reading/writing files.
 
- **Topics: ** Objects and methods, manipulating strings, reading/writing files
-**Jupyter Notebook:**
-
-
-## 3. Software Design
-
-**Description:** An overview of some best practices for writing software.
-
-**Topics:** Documentation, modularity, self-describing code, testing, floating point arithmetic
+**Topics: ** Objects and methods, manipulating strings, reading/writing files
 
 **Jupyter Notebook:**
 
-## 4. Libraries I : numpy, imageio, nibabel
+## 5. Python Libraries I: Brain Volumes
 
 **Description:**
 
-**Topics:**
+**Topics:** numpy, nibabel
 
 **Jupyter Notebook:**
 
-## 5. Libraries II: pandas, matplotlib
+## 6. Python Libraries II : Data & Visualization
 
 **Description:** 
 
-**Topics:**
+**Topics:** pandas, matplotlib
+
+**Jupyter Notebook:** 
+
+## 7. Python Libraries III: Intro. to Image Processing 
+
+**Description:** 
+
+**Topics:** numpy, scipy, skimage
+
+## 7. Python Libraries IV: Intro. to Statistics 
+
+**Description:** 
+
+**Topics:** numpy, scipy, skimage
 
 **Jupyter Notebook:**
 
-## 6. Libraries III: scipy, skimage
+## 8. Python Libraries V: Intro. to Machine Learning
 
 **Description:** 
 
-**Topics:**
+**Topics:** sklearn
+
+## 8. Software Design I :
+
+**Description:** An overview of some best practices for writing software.
+
+**Topics:** Documentation and modular code
+
+**Jupyter Notebook:**
+
+## 8. Software Design II : Version control with Github
+
+**Description:** How to use Github to keep track of changes to your code.
+
+**Topics:** Github
+
+**Jupyter Notebook:**
+
+## 8. Software Design III : Test driven development
+
+**Description:** 
+
+**Topics:** 
 
 **Jupyter Notebook:**
 
