@@ -19,9 +19,9 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 # (Provisional) Curriculum
 ## 1. Python Basics I
 
-**Description:** An introduction to some of the fundamental concepts of programming.
+**Description:** An introduction to basic data objects and types in Python.  
 
-**Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators, Flow of Control, Functions
+**Topics:** Variables, Data Types, Lists, Strings, Dictionaries, Operators 
 
 **Jupyter Notebook:** [notebooks/W1.ipynb](https://github.com/tfunck/hacking_hour/blob/606db38eca72bb17466fcbe67f5ac53a6fa3773e/notebooks/W1.ipynb)
 
@@ -29,12 +29,26 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 ## 2. Python Basics II
 
-**Description:** A continuation of the basic concepts of programming. Afterwards participants will have the foundational building blocks for writing software. 
+**Description:** A continuation of the basic concepts of programming, focussing on flow of control and writing functions 
 
-**Topics:** Objects and methods, Common Python functions (range, enumerate, len, etc.), libraries (os, sys, math), manipulating strings, reading/writing files 
+**Topics:** Flow of Control, Functions
 
 **Jupyter Notebook:** [notebooks/W2.ipynb](https://github.com/tfunck/hacking_hour/blob/a1d41a264e3f707cee301ba8139ae47918a21291/notebooks/W2.ipynb)
 
+
+## 3. Python Basics III
+
+**Description:** More on iteration, discussion of the topic of variable scope, and an introduction to some common python functions.
+
+**Topics:** Iteration with list comprehension, variable scope, Common Python functions (range, enumerate, len, etc.)
+**Jupyter Notebook:** 
+
+## 4. Python Basics IV
+
+**Description:** Introduction to the concept of objects and methods with applications using string manipulation and reading/writing files.
+
+ **Topics: ** Objects and methods, manipulating strings, reading/writing files
+**Jupyter Notebook:**
 
 
 ## 3. Software Design
