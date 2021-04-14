@@ -1,6 +1,6 @@
 # Next Meeting
 ## Date
-April 13th 2021, 11h-12h EDT
+April 20th 2021, 11h-12h EDT
 
 ## Meeting Link 
 Jitsi: https://meet.jit.si/hiball_hacking_hour
