@@ -52,7 +52,7 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 **Topics: ** Objects and methods, manipulating strings, reading/writing files
 
-**Jupyter Notebook:**
+**Jupyter Notebook:** [notebooks/W4.ipynb](https://github.com/tfunck/hacking_hour/blob/e3b87e767649666f2946637a539631d16f1a9edf/notebooks/W4.ipynb)
 
 ## 5. Python Libraries I: Brain Volumes
 
@@ -60,7 +60,7 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 **Topics:** numpy, nibabel, matplotlib
 
-**Jupyter Notebook:**
+**Jupyter Notebook:** [notebooks/W5.ipynb](https://github.com/tfunck/hacking_hour/blob/e3b87e767649666f2946637a539631d16f1a9edf/notebooks/W5.ipynb)
 
 ## 6. Python Libraries II : Data & Visualization
 
