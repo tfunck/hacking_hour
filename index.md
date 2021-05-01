@@ -1,6 +1,6 @@
 # Next Meeting
 ## Date
-April 27th 2021, 11h-12h EDT
+May 11th 2021, 11h-12h EDT
 
 ## Meeting Link 
 Jitsi: https://meet.jit.si/hiball_hacking_hour
@@ -56,15 +56,15 @@ Hacking Hour is a regular, interative workshop series on coding and neuroimaging
 
 ## 5. Python Libraries I: Brain Volumes
 
-**Description:**
+**Description:** Intoduction to numpy arrays using brain images. We'll introduce some very simple image processing to create brain masks and will use matplotlib to display our results.  
 
-**Topics:** numpy, nibabel
+**Topics:** numpy, nibabel, matplotlib
 
 **Jupyter Notebook:**
 
 ## 6. Python Libraries II : Data & Visualization
 
-**Description:** 
+**Description:** Introduction to doing data analysis with pandas and visualization with matplotlib. 
 
 **Topics:** pandas, matplotlib
 
